@@ -1,0 +1,11 @@
+{
+  "name": "chat-app-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  }
+}
